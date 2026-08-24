@@ -1,0 +1,4 @@
+# Logs will hold real network/infrastructure data once these scripts are
+# actually run (DHCP scopes, DNS zones, share paths, dcdiag output) -
+# never commit, especially since this repo is public
+Logs/
